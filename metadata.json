@@ -1,0 +1,6 @@
+{
+  "name": "PT's PreM1",
+  "description": "PT's มาสอบเข้า ม.1! เกมการศึกษาแห่งอนาคต สะสม XP, PT Points, สัตว์เลี้ยง 20 ชนิด, มินิเกม 7 รูปแบบ, Leaderboard และติวเตอร์ AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
